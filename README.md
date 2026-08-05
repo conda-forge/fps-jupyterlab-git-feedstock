@@ -7,7 +7,7 @@ Home: https://github.com/jupyter-server/jupyverse/tree/main/plugins/jupyterlab_g
 
 Package license: BSD-3-Clause
 
-Summary: An FPS plugin for serving jupyterlab-git through a Jupyter server
+Summary: An FPS plugin for jupyterlab-git
 
 Current build status
 ====================
@@ -16,7 +16,9 @@ Current build status
 <table><tr>
     <td>All platforms:</td>
     <td>
-      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+      <a href="https://github.com/conda-forge/fps-jupyterlab-git-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/fps-jupyterlab-git-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
+      </a>
     </td>
   </tr>
 </table>
